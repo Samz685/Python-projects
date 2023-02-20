@@ -17,18 +17,18 @@
             "description": "1986\u20131989 TV Series Masako Nozawa, J\u00f4ji Yanami"
         },
         {
-            "id": "tt0280249",
-            "resultType": "Series",
-            "image": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.8108_AL_.jpg",
-            "title": "Dragon Ball",
-            "description": "1995\u20132003 TV Series Brice Armstrong, Steve Olson"
-        },
-        {
             "id": "tt4644488",
             "resultType": "Series",
             "image": "https://m.media-amazon.com/images/M/MV5BY2I2MzI1ODYtMWRlOS00MzdhLWEyOWEtYWJhNmFiZTIxMGJhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio0.6757_AL_.jpg",
             "title": "Dragon Ball Super",
             "description": "2015\u20132018 TV Series Masako Nozawa, Naoki Tatsuta"
+        },
+        {
+            "id": "tt0280249",
+            "resultType": "Series",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDYyNTJkNmItYjgxNC00ODliLTg2MGMtZjkxNjEwYzdjNjUxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.8108_AL_.jpg",
+            "title": "Dragon Ball",
+            "description": "1995\u20132003 TV Series Brice Armstrong, Steve Olson"
         },
         {
             "id": "tt0121220",
@@ -59,18 +59,18 @@
             "description": "1996\u20131997 TV Series Elise Baughman, Andrew Chandler"
         },
         {
-            "id": "tt1409055",
-            "resultType": "Series",
-            "image": "https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7027_AL_.jpg",
-            "title": "Dragon Ball Z Kai",
-            "description": "2009\u20132015 TV Series Masako Nozawa, J\u00f4ji Yanami"
-        },
-        {
             "id": "tt8433216",
             "resultType": "Series",
             "image": "https://m.media-amazon.com/images/M/MV5BOGM0YmJlNGItOTVlNi00NjViLWFiMDAtNzE3MDk0YThjOTVhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_Ratio0.7568_AL_.jpg",
             "title": "Super Dragon Ball Heroes",
             "description": "2018\u2013 TV Series Ry\u00f4 Horikawa, Takeshi Kusao"
+        },
+        {
+            "id": "tt1409055",
+            "resultType": "Series",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Dragon Ball Z Kai",
+            "description": "2009\u20132015 TV Series Masako Nozawa, J\u00f4ji Yanami"
         },
         {
             "id": "tt10710138",
@@ -119,7 +119,7 @@
             "resultType": "Series",
             "image": "https://m.media-amazon.com/images/M/MV5BNTRiMDA1OTYtZjk3ZS00ZGM2LWEwOGQtYjE4NTkwMGUyNzJhXkEyXkFqcGdeQXVyMTUzODc0MDY4._V1_Ratio0.6757_AL_.jpg",
             "title": "Dragon Ball Super: The Fan Film",
-            "description": "2023 Orlando Castillo, Gavin Gurthie"
+            "description": "2023 Orlando Castillo, Alyssa Merrill"
         },
         {
             "id": "tt0142236",
